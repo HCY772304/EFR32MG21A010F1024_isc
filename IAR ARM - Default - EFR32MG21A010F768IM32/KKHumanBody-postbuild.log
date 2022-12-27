@@ -1,0 +1,8 @@
+INFO:root:Creation of 32 bit srec file:  "D:/IAR7_8/arm/bin/ielftool.exe" "KKHumanBody.out" --srec --srec-s3only "KKHumanBody.s37"
+INFO:root:Creation of gbl file: D:\SIMPLI~1\s5\DEVELO~1\ADAPTE~1\COMMAN~1\COMMAN~1.EXE gbl create "KKHumanBody.gbl" --app "KKHumanBody.s37" --device EFR32MG21A010F768IM32
+INFO:root:Creation of ota file:  "D:\SIMPLI~1\s5\KKHUMA~1\..\developer\sdks\gecko_sdk_suite\v3.1\protocol\zigbee\tool\image-builder\image-builder-windows.exe" --create "KKHumanBody.ota" --version 0x13 --manuf-id 0x1268 --image-type 20506 --tag-id 0x0000 --tag-file "KKHumanBody.gbl" --string "EBL KKTemplateCodeProject"
+INFO:root:OTA file has been created
+INFO:root:Creation of 32 bit srec file:  "D:/IAR7_8/arm/bin/ielftool.exe" "KKHumanBody.out" --srec --srec-s3only "KKHumanBody.s37"
+INFO:root:Creation of gbl file: D:\SIMPLI~1\s5\DEVELO~1\ADAPTE~1\COMMAN~1\COMMAN~1.EXE gbl create "KKHumanBody.gbl" --app "KKHumanBody.s37" --device EFR32MG21A010F768IM32
+INFO:root:Creation of ota file:  "D:\SIMPLI~1\s5\KKHUMA~1\..\developer\sdks\gecko_sdk_suite\v3.1\protocol\zigbee\tool\image-builder\image-builder-windows.exe" --create "KKHumanBody.ota" --version 0x13 --manuf-id 0x1268 --image-type 20506 --tag-id 0x0000 --tag-file "KKHumanBody.gbl" --string "EBL KKTemplateCodeProject"
+INFO:root:OTA file has been created

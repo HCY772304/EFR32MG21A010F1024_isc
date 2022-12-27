@@ -1,0 +1,15 @@
+"D:\IAR8_4\arm\bin\armproc.dll" 
+
+"D:\IAR8_4\arm\bin\armjlink2.dll" 
+
+"D:\simplicity studio5\s5\KKHumanBody\build\exe\KKTemplateCodeProject.out" 
+
+--plugin="D:\IAR8_4\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR8_4\arm\config\debugger\SiliconLaboratories\Trace_xG21.dmac" 
+
+--flash_loader="D:\IAR8_4\arm\config\flashloader\SiliconLaboratories\FlashGECKOS2.board" 
+
+
+
+
